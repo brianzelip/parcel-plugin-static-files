@@ -1,0 +1,16 @@
+{
+  "name": "parcel-plugin-static-files",
+  "version": "0.1.0",
+  "description": "Parcel bundler plugin to copy static files to the build dir.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brianzelip/parcel-plugin-static-files.git"
+  },
+  "keywords": [
+    "parcel",
+    "plugin"
+  ],
+  "author": "Brian Zelip <bzelip@gmail.com> (https://zelip.me/)",
+  "license": "MIT"
+}
