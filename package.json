@@ -1,6 +1,6 @@
 {
   "name": "@bzelip/parcel-plugin-static-files",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Parcel bundler plugin to copy static files to the build dir.",
   "main": "index.js",
   "repository": {
